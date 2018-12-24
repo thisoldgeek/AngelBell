@@ -1,5 +1,5 @@
 # **Angel Bell**
-![Angel Bell](https://github.com/thisoldgeek/AngelBell/blob/master/AngelBell_READme.jpg "Angel Bell Christmas Decoration")
+![Angel Bell](https://github.com/thisoldgeek/AngelBell/blob/master/AngelBell_giphy.gif "Angel Bell Christmas Decoration")
  
 ## *Description:*
 A solenoid mounted in a 3D printed case rings a bell and a servo waves a flag "every time an angel gets his wings"
